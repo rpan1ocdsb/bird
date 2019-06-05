@@ -1,4 +1,4 @@
 //add image sources here 
 imageList.push(
-	"images/a.png", "images/book.png", "images/eye.png", "images/angel.png", "images/bee.png", "images/chest.png", "images/diamond.png", "images/spiderman.png", "images/shield.png", 
+	"Images/a.png", "Images/book.png", "Images/eye.png", "Images/angel.png", "Images/bee.png", "Images/chest.png", "Images/diamond.png", "Images/spiderman.png", "Images/shield.png", 
 )
